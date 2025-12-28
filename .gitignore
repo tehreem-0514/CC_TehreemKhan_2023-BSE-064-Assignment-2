@@ -7,6 +7,7 @@ terraform.tfvars
 *.tfstate
 *.tfstate.*
 terraform-key
+terraform-key.pub
 
 # Sensitive data
 *.pem
