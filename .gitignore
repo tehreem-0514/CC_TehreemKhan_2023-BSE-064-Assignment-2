@@ -3,6 +3,10 @@
 *.tfstate
 *.tfstate.backup
 terraform.tfvars
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform-key
 
 # Sensitive data
 *.pem
